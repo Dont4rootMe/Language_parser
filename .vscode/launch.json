@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Volumes/SSD/Programming/cpp_projects/Language_parser",
+      "program": "/Volumes/SSD/Programming/cpp_projects/Language_parser/build/Debug/outDebug"
+    }
+  ]
+}

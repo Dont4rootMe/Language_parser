@@ -1,0 +1,6 @@
+program 
+var a : int, i : int, b : bool;
+began
+    read(b);
+    write(not b)
+end
